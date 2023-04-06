@@ -31,6 +31,7 @@ let allowedOrigins = [
   "http://localhost:4200",
   "https://movie-api-k8molony.vercel.app",
   "https://k8molony.github.io",
+  "https://github.com/k8molony",
 ];
 
 app.use(
