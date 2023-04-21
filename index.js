@@ -27,7 +27,7 @@ app.use(bodyParser.json());
 const cors = require("cors");
 let allowedOrigins = [
   "https://superflixheroes.netlify.app",
-  "http://localhost:1234/",
+  "http://localhost:1234",
   "http://localhost:4200",
   "https://movie-api-k8molony.vercel.app",
   "https://k8molony.github.io",
